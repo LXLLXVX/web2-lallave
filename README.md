@@ -15,8 +15,6 @@
     <a href="https://github.com/LXLLXVX/web2-lallave"><strong>Explore the repository »</strong></a>
     <br />
     <br />
-    <a href="https://your-live-demo-link.com">View Demo</a>
-    ·
     <a href="https://github.com/LXLLXVX/web2-lallave/issues">Report Bug</a>
     ·
     <a href="https://github.com/LXLLXVX/web2-lallave/issues">Request Feature</a>
@@ -29,7 +27,7 @@
 
 **Web2-LaLlave** is an interactive website that provides comprehensive information about the Spanish professional basketball league, **Liga Endesa (ACB)**. It is designed to offer real-time match updates, detailed team and player statistics, and league standings, making it an essential platform for basketball enthusiasts.  
 
-The design is inspired by [this Dribbble shot](https://dribbble.com/shots/22656333-MOK1-Space-center), aiming to blend a modern aesthetic with user-friendly navigation.  
+The design is inspired by [this page](https://www.acb.com/), aiming to blend a modern aesthetic with user-friendly navigation.  
 
 ### ✨ Features  
 
@@ -46,18 +44,10 @@ The design is inspired by [this Dribbble shot](https://dribbble.com/shots/226563
 This project is built using the latest web technologies to ensure a smooth and responsive user experience:  
 
 - **HTML5** – Semantic structure for better accessibility.  
-- **CSS3** – Modern styling with animations and responsive design.  
+- **CSS** – Modern styling with animations and responsive design.  
 - **JavaScript (ES6+)** – Dynamic content rendering and interactive elements.  
-- **Leaflet.js** – Used for mapping features when displaying venue locations.  
 - **Bootstrap** – Ensures a mobile-friendly layout.  
 - **GitHub** – Version control and collaboration.  
-
----
-
-## 📸 Screenshots  
-
-<img src="assets/screenshot1.png" alt="Screenshot 1" width="800">  
-<img src="assets/screenshot2.png" alt="Screenshot 2" width="800">  
 
 ---
 
@@ -66,6 +56,15 @@ This project is built using the latest web technologies to ensure a smooth and r
 To set up the project locally, follow these steps:  
 
 1. **Clone the repository:**  
-
-   ```bash
    git clone https://github.com/LXLLXVX/web2-lallave.git
+
+2. **Navigate to the project directory**  
+    cd web2-lallave
+   
+3. **Install dependencies:**
+     npm install
+
+4. **Start the development server:**
+     npm run dev
+
+6. 
