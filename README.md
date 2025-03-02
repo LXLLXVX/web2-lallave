@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LXLLXVX/web2-lallave">
-    <img src="assets/logo.png" alt="Logo" width="150">
+    <img src="http://brandemia.org/sites/default/files/acb_logo_portada.jpg" alt="Logo" width="150">
   </a>
 
   <h3 align="center">Web2-LaLlave - ACB League</h3>
